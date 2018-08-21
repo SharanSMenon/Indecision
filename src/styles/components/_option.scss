@@ -1,0 +1,12 @@
+.option{
+    display:flex;
+    justify-content: space-between;
+    padding:$m-size $m-size;
+    border-bottom:1px solid $off-white;
+    word-break:break-all;
+}
+.option__text{
+    color:white;
+    font-weight:500;
+    font-size:2rem;
+}
