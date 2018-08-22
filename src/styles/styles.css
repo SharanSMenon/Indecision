@@ -32,9 +32,9 @@ button:disabled {
   padding: 1.2rem; }
 
 .big_button {
-  background: #8357c5;
+  background: #c10764;
   border: none;
-  border-bottom: 0.6rem solid #693cad;
+  border-bottom: 0.6rem solid #90054b;
   color: white;
   font-weight: bold;
   font-size: 3.2rem;
@@ -46,9 +46,9 @@ button:disabled {
   opacity: 0.5; }
 
 .button {
-  background-color: #8357c5;
+  background-color: #c10764;
   border: none;
-  border-bottom: 0.3rem solid #693cad;
+  border-bottom: 0.3rem solid #90054b;
   color: white;
   font-weight: 500;
   padding: 1.2rem; }
@@ -83,7 +83,7 @@ button:disabled {
 .option {
   display: flex;
   justify-content: space-between;
-  padding: 1.6rem 1.6rem;
+  padding: 1.2rem 1.2rem;
   border-bottom: 1px solid #a5afd7;
   word-break: break-all; }
 
